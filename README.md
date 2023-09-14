@@ -24,3 +24,8 @@ DPD: Digital Pathology Dataset (refer to the publication)
 ## Publication
 
 Will be updated soon.
+
+## TRained Models
+
+The trained models can be found in the google drive link below.
+https://drive.google.com/file/d/1DZ9fQteJYvHt9gjoWxQOrn1GolDCJGdw/view?usp=sharing
